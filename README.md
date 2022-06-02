@@ -7,6 +7,13 @@ https://www.codewars.com/
 
 https://skillotron.com/signin (він не працює зараз але обіцяють його пофиксити)
 
+## Learn playing games
+https://codecombat.com/
+
+https://www.codingame.com/
+
+
+
 ## State of JavaScript
 https://2021.stateofjs.com/ua-UA/
 

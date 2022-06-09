@@ -24,3 +24,16 @@ console.log(arr[2]()) // => 6
 
 
 
+/**
+ * Question - 3
+ * Проверить как изменится объект obj и объяснить почему
+ */
+
+const obj = {};
+
+(function(x) {
+  x.b = 1;
+  x = null;
+})(obj);
+
+console.log(obj)

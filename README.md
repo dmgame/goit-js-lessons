@@ -27,3 +27,5 @@ https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
 
 https://www.jsv9000.app/
 
+(Нe) всё в JavaScript — объект
+https://medium.com/devschacht/daniel-li-not-everything-in-javascript-is-an-object-82fe5026e1a2
